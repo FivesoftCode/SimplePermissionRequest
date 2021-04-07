@@ -1,4 +1,4 @@
-# simple-permission-request
+# SimplePermissionRequest
 
 Request app permissions easily.
 
