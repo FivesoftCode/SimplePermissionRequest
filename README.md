@@ -6,7 +6,7 @@ Request app permissions easily.
 
 Implementation:
 
-    implementation 'com.github.FivesoftCode:simple-permission-request:+'
+    implementation 'com.github.FivesoftCode:SimplePermissionRequest:1.0.2'
 
 Check permission:
 
