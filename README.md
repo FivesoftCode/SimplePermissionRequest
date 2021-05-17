@@ -51,3 +51,8 @@ Request permission:
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+    
+## Check my apps in Google Play!
+
+<a href = "https://play.google.com/store/apps/details?id=com.fivesoft.sheetofpaper">Sheet of Paper</a><br>
+<a href = "https://play.google.com/store/apps/details?id=com.fivesoft.blackboard">Blackboard</a>
